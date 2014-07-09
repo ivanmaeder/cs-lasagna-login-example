@@ -16,7 +16,7 @@ if ($row) {
     header('Location: welcome.php');
 }
 else {
-    header('Location: login-form.php');
+    header('Location: index.php');
 }
 
 ?>
